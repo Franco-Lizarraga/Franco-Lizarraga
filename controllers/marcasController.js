@@ -28,7 +28,7 @@ module.exports = controller = {
                 }
             })
         })
-        res.end('Lo sentimos, no tenemos sucursal en esa zona')
+        res.end('Lo sentimos, no tenemos esa marca en esa zona')
     }
 }
 
